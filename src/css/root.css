@@ -1,0 +1,18 @@
+:root {
+    --point-brake-mobile: 375px;
+    --max-width-size: 1440px;
+
+    --font-size: 62,5%;
+
+    --backgroud-color: hsl(257, 40%, 49%);
+    --color-hover-btn-register: hsl(300,69%,71%);
+
+    --font-titles: 'Poppins', sans-serif;
+    --font-weight-titles-400: 400;
+    --font-weight-titles-600: 600;
+
+    --font-body: "Open-Sans", sans-serif;
+    --font-weight-body: 400;
+}
+
+
