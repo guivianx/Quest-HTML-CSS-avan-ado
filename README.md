@@ -1,0 +1,1 @@
+dediquei uma semana nesse projeto fiz e re-fiz, não construi o projeto sendo 100%  fiel ao design pois na minha opinião não ficaria bom algumas coisas, subi usando o git para praticar e fiz uma correção em um padding no media querie que estava descentralizando uma div tbm subi essas alterações usando git, foi chatin fazer kkk mas terminei 
